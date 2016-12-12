@@ -1,0 +1,2 @@
+Compile: gcc -pthread -o Out Diner2.c
+Execute: ./Out
